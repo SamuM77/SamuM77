@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bem-vindo ao meu perfil 
 
-<!--
-**SamuM77/SamuM77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Samuel Meir, 
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javascripit
+- Utilizo esta pagina para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📧
+
+samuel.buarque.lima@escola.pr.gov.br
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fbreaking-bad-chemistry-experiment-scientific-walter-white-gif-17820266&psig=AOvVaw1DKXX-cuw45Eym2QR-Kw5l&ust=1729791639083000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMi09pKGpYkDFQAAAAAdAAAAABAd)
